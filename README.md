@@ -1,4 +1,4 @@
-# Text Encryption App
+# Text Encryption & Decryption Web APP
 
 ## Overview
 
